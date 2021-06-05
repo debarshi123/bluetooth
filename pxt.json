@@ -1,5 +1,5 @@
 {
-    "name": "Bluetooth",
+    "name": "Stopwatch",
     "description": "",
     "dependencies": {
         "core": "*",
